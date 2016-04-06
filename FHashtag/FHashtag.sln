@@ -1,0 +1,42 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "FHashtag", "FHashtag\FHashtag.fsproj", "{BC8E4EEA-A40C-483C-BAEB-7D0576014EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8E4EEA-A40C-483C-BAEB-7D0576014EAE}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BC8E4EEA-A40C-483C-BAEB-7D0576014EAE}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BC8E4EEA-A40C-483C-BAEB-7D0576014EAE}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BC8E4EEA-A40C-483C-BAEB-7D0576014EAE}.Release|iPhone.Build.0 = Release|iPhone
+		{BC8E4EEA-A40C-483C-BAEB-7D0576014EAE}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BC8E4EEA-A40C-483C-BAEB-7D0576014EAE}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BC8E4EEA-A40C-483C-BAEB-7D0576014EAE}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BC8E4EEA-A40C-483C-BAEB-7D0576014EAE}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 100
+		$1.NoTabsAfterNonTabs = True
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-fsharp
+		$0.FSharpFormattingPolicy = $2
+		$2.DefaultFormat = $3
+		$3.IndentOnTryWith = False
+		$3.ReorderOpenDeclaration = False
+		$3.SpaceAfterComma = True
+		$3.SpaceAfterSemicolon = True
+		$3.SpaceAroundDelimiter = True
+		$3.SpaceBeforeArgument = True
+		$3.SpaceBeforeColon = True
+		$2.scope = text/x-fsharp
+	EndGlobalSection
+EndGlobal
